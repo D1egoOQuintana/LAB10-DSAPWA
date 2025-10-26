@@ -223,7 +223,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="bg-black bg-opacity-50 backdrop-blur-md border-t border-white border-opacity-20 mt-16">
         <div className="max-w-7xl mx-auto px-4 py-6 text-center text-gray-400">
-          <p>Laboratorio 10 - Desarrollo de Soluciones en la Nube</p>
+          <p>Laboratorio 10 </p>
           <p className="text-sm mt-2">Next.js SSG/ISR Implementation © 2025</p>
         </div>
       </footer>
